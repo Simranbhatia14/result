@@ -3,6 +3,7 @@
     width :100%;
     background-image :linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url("file:///C:/Users/Simran/Documents/PEP%20WEB/gtbit/tim/flowers.jpg"),;
     background-size:cover;
+    background-color : blue;
     position:absolute;
 
 }
